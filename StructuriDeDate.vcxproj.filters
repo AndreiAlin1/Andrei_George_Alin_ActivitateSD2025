@@ -21,5 +21,13 @@
     <ClCompile Include="Sablon02.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Sablon03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="masini.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

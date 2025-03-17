@@ -129,6 +129,10 @@
   <ItemGroup>
     <ClCompile Include="Sablon01.c" />
     <ClCompile Include="Sablon02.c" />
+    <ClCompile Include="Sablon03.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="masini.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
