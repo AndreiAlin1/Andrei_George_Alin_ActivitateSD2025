@@ -1,0 +1,13 @@
+Mega Image,800,17000
+Carrefour,360,11000
+Kaufland,512,12000
+Lidl,333,9012
+Cora,50,900
+Profi, 90, 9312
+Auchan, 304, 3423
+Metro,30, 9334
+Selgros, 28, 9832
+Penny, 40, 13000
+Vodafone,300,10000
+Vodafone,300,10000
+Vodafone,300,10000

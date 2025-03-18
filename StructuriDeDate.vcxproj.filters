@@ -24,9 +24,18 @@
     <ClCompile Include="Sablon03.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Teme.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="magazine.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="magazineVector.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>

@@ -1,0 +1,3 @@
+Mega Image,800,17000
+Carrefour,360,11000
+Kaufland,512,12000

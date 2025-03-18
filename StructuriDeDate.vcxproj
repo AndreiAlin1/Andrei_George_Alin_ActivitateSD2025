@@ -130,8 +130,11 @@
     <ClCompile Include="Sablon01.c" />
     <ClCompile Include="Sablon02.c" />
     <ClCompile Include="Sablon03.c" />
+    <ClCompile Include="Teme.c" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="magazine.txt" />
+    <Text Include="magazineVector.txt" />
     <Text Include="masini.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
