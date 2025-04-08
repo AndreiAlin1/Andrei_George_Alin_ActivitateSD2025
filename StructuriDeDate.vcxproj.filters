@@ -27,6 +27,9 @@
     <ClCompile Include="Teme.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Sablon04.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt">
