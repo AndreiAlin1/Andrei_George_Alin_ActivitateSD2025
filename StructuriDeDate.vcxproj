@@ -132,6 +132,7 @@
     <ClCompile Include="Sablon03.c" />
     <ClCompile Include="Sablon04.c" />
     <ClCompile Include="Sablon05.c" />
+    <ClCompile Include="Sablon06.c" />
     <ClCompile Include="Teme.c" />
   </ItemGroup>
   <ItemGroup>
