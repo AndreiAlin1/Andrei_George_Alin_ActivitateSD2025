@@ -30,15 +30,18 @@
     <ClCompile Include="Sablon04.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Sablon05.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="masini.txt">
-      <Filter>Resource Files</Filter>
-    </Text>
     <Text Include="magazine.txt">
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="magazineVector.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="masini.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
